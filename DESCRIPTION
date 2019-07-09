@@ -1,0 +1,9 @@
+Package: ExtendedSummarisedExperiment
+Type: Package
+Title: GWAS Meta Analysis
+Version: 0.1.0
+Author: Filipe Jesus
+Maintainer: Filipe Jesus <filipeje@hotmail.co.uk>
+Description: Resource of parallisable R scripts for GWAS Meta Analysis. Also provides a stand alone R executible for command line use.
+License: Artistic-2.0
+LazyData: true
