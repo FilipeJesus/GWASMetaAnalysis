@@ -1,0 +1,7 @@
+#! usr/bin/bash
+
+path=$(dirname $(readlink -f $0))
+echo $path/standalone_script/ivwa_pipeline.r
+#Rscript $path/standalone_script/ivwa_pipeline.r $@
+
+echo "done"
